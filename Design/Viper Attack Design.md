@@ -1,4 +1,4 @@
-# Viper-Attack Design Document
+# Viper Attack Design Document
 
 ## Concept of the Game
 - You wake up from a coma or from a nightmare.
