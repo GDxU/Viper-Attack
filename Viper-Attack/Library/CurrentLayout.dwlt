@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
+    x: -2
     y: 44
     width: 1280
     height: 719
@@ -313,7 +313,7 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 278
+    x: 276
     y: 93
     width: 636
     height: 357
@@ -389,29 +389,29 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 0
+    x: -2
     y: 93
     width: 274
     height: 357
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 18fcffff00000000
+    m_SelectedIDs: 16fcffff
+    m_LastClickedID: -1002
+    m_ExpandedIDs: a8efffff0cfcffff18fcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Player
-      m_OriginalName: Player
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -1012
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -442,19 +442,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 278
+    x: 276
     y: 93
     width: 636
     height: 357
   m_SceneLighting: 1
-  lastFramingTime: 142.9638170003891
+  lastFramingTime: 1243.0722479820251
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 492.95065, y: 84.0005, z: 415.7871}
+    m_Target: {x: 493.51, y: 85.25, z: 416.25}
     speed: 2
-    m_Value: {x: 492.95065, y: 84.0005, z: 415.7871}
+    m_Value: {x: 493.51, y: 85.25, z: 416.25}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -477,13 +477,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.21492891, y: -0.04217005, z: 0.009289199, w: -0.9756746}
+    m_Target: {x: -0.45674402, y: 0.038946867, z: -0.020020993, w: -0.88851976}
     speed: 2
-    m_Value: {x: -0.21492891, y: -0.04217005, z: 0.009289199, w: -0.9756746}
+    m_Value: {x: -0.45674396, y: 0.038946863, z: -0.020020992, w: -0.88851964}
   m_Size:
-    m_Target: 10.347051
+    m_Target: 441.24518
     speed: 2
-    m_Value: 10.347051
+    m_Value: 441.24518
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -584,7 +584,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 0
+    x: -2
     y: 471
     width: 914
     height: 270
@@ -600,18 +600,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 82
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: 82
   m_LastProjectPath: /Users/GabrielGrimberg/Documents/Viper-Attack/Viper-Attack
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: b8260000
-    m_LastClickedID: 9912
+    m_SelectedIDs: fa2d0000
+    m_LastClickedID: 11770
     m_ExpandedIDs: 00000000b82600006227000026280000962800009a2800006e2a0000702a0000a62a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -684,7 +684,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -771,7 +771,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 918
+    x: 916
     y: 93
     width: 362
     height: 648
