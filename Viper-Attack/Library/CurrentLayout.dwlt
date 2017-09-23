@@ -176,8 +176,8 @@ MonoBehaviour:
     y: 0
     width: 276
     height: 378
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -481,9 +481,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.2542183, y: 0.5030566, z: -0.15772475, w: -0.8108206}
   m_Size:
-    m_Target: 340.58975
+    m_Target: 367.28693
     speed: 2
-    m_Value: 340.58975
+    m_Value: 367.28693
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -600,19 +600,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 82
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: 82
   m_LastProjectPath: /Users/GabrielGrimberg/Documents/Viper-Attack/Viper-Attack
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: 14270000
-    m_LastClickedID: 10004
-    m_ExpandedIDs: 00000000ba260000662700002a2800009c280000a0280000762a0000782a0000ae2a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: be260000
+    m_LastClickedID: 9918
+    m_ExpandedIDs: 00000000be2600006a2700002e280000a0280000a42800007a2a00007c2a0000b22a0000982e0000bc2e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -640,7 +640,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ba260000662700002a2800009c280000a0280000762a0000782a0000ae2a0000
+    m_ExpandedIDs: 00000000be2600006a2700002e280000a0280000a42800007a2a00007c2a0000b22a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
