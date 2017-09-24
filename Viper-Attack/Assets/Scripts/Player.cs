@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour 
 {
+	public Helicopter helicopter;
 	public Transform playerSpawnPOS; //Parent of the spawn points.
 	public bool respawn = false;
 	private Transform[] spawnPointsPOS;
@@ -34,5 +35,10 @@ public class Player : MonoBehaviour
 	{
 		int i = Random.Range(1, spawnPointsPOS.Length);
 		transform.position = spawnPointsPOS[i].transform.position;
+	}
+
+	void OnFindClearArea()
+	{
+		helicopter.Call();
 	}
 }

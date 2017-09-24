@@ -19,7 +19,7 @@ public class ClearArea : MonoBehaviour
 
 		if(timeSinceLastTrigger > 1f)
 		{
-			//TODO
+			SendMessageUpwards("OnFindClearArea");
 		}
 
 	}
