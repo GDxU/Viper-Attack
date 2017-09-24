@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour 
 {
+	public GameObject flarePrefab;
 	public Transform playerSpawnPOS; //Parent of the spawn points.
 	public bool respawn = false;
 	private Transform[] spawnPointsPOS;
@@ -43,6 +44,6 @@ public class Player : MonoBehaviour
 
 	void DropFlare()
 	{
-		//TODO
+		Instantiate (flarePrefab, transform.position, transform.rotation);
 	}
 }

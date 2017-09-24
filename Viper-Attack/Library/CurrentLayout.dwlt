@@ -106,8 +106,8 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 669
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
   controlID: 47
 --- !u!114 &6
@@ -130,7 +130,7 @@ MonoBehaviour:
     y: 0
     width: 912
     height: 669
-  m_MinSize: {x: 404, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 48
@@ -154,8 +154,8 @@ MonoBehaviour:
     y: 0
     width: 912
     height: 378
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
   controlID: 49
 --- !u!114 &8
@@ -256,8 +256,8 @@ MonoBehaviour:
     y: 0
     width: 368
     height: 669
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -437,9 +437,9 @@ MonoBehaviour:
     height: 357
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9e2c0000
-    m_LastClickedID: 11422
-    m_ExpandedIDs: 18fbffff18fcffff000000009e2c0000b22c0000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: c4bafeff048effff18fcffff00000000982c0000a42c0000b82c0000d62c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -489,14 +489,14 @@ MonoBehaviour:
     width: 632
     height: 357
   m_SceneLighting: 1
-  lastFramingTime: 259.55958104133606
+  lastFramingTime: 563.4888880252838
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 493.51, y: 85.8, z: 416.25}
+    m_Target: {x: 499.03314, y: 81.00103, z: 404.42276}
     speed: 2
-    m_Value: {x: 493.51, y: 85.8, z: 416.25}
+    m_Value: {x: 499.03314, y: 81.00103, z: 404.42276}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -519,13 +519,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.03878202, y: 0.9610706, z: -0.18465926, w: 0.20184202}
+    m_Target: {x: 0.022295516, y: 0.9760415, z: -0.12148057, w: 0.17913222}
     speed: 2
-    m_Value: {x: 0.038782015, y: 0.96107054, z: -0.18465926, w: 0.20184201}
+    m_Value: {x: 0.022295518, y: 0.97604156, z: -0.12148058, w: 0.17913224}
   m_Size:
-    m_Target: 70.72846
+    m_Target: 14.914157
     speed: 2
-    m_Value: 70.72846
+    m_Value: 14.914157
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -600,19 +600,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 82
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: 82
   m_LastProjectPath: /Users/GabrielGrimberg/Documents/Viper-Attack/Viper-Attack
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: 2e270000
-    m_LastClickedID: 10030
-    m_ExpandedIDs: 00000000c6260000842700003e280000ce2800007629000082290000d42900005c2b0000a02b0000a22b0000ac2b0000e62b0000162f0000182f000000ca9a3bffffff7f
+    m_SelectedIDs: 1c2a0000
+    m_LastClickedID: 10780
+    m_ExpandedIDs: 00000000c6260000842700003e280000ce2800007629000082290000d42900005c2b0000a02b0000a22b0000ac2b0000e62b00002e2f0000302f00005a35000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -640,7 +640,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c6260000842700003e280000ce2800007629000082290000d42900005c2b0000a02b0000a22b0000ac2b0000e62b0000162f0000182f0000
+    m_ExpandedIDs: 00000000c6260000842700003e280000ce2800007629000082290000d42900005c2b0000a02b0000a22b0000ac2b0000e62b00002e2f0000302f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -684,7 +684,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -745,7 +745,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 471
-    width: 1001
+    width: 910
     height: 270
   m_AnimEditor: {fileID: 0}
   m_Locked: 0

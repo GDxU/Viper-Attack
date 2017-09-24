@@ -314,7 +314,7 @@ Prefab:
 --- !u!1 &234323619
 GameObject:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 1634787512775478, guid: 6bcaf508ce36f4a9187b22eef7829013,
+  m_PrefabParentObject: {fileID: 1963353505901024, guid: 747d66846d25440edb416de6e4d2a4b2,
     type: 2}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
@@ -332,7 +332,7 @@ GameObject:
 --- !u!4 &234323620
 Transform:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 4058986083809836, guid: 6bcaf508ce36f4a9187b22eef7829013,
+  m_PrefabParentObject: {fileID: 4644917977357728, guid: 747d66846d25440edb416de6e4d2a4b2,
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 234323619}
@@ -346,7 +346,7 @@ Transform:
 --- !u!114 &234323621
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114060229888528164, guid: 6bcaf508ce36f4a9187b22eef7829013,
+  m_PrefabParentObject: {fileID: 114270456500843418, guid: 747d66846d25440edb416de6e4d2a4b2,
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 234323619}
@@ -358,7 +358,7 @@ MonoBehaviour:
 --- !u!65 &234323622
 BoxCollider:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 65800147707797492, guid: 6bcaf508ce36f4a9187b22eef7829013,
+  m_PrefabParentObject: {fileID: 65861901752923160, guid: 747d66846d25440edb416de6e4d2a4b2,
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 234323619}
@@ -366,8 +366,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 30, y: 1, z: 40}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 30, y: 30, z: 40}
+  m_Center: {x: 0, y: 16, z: 0}
 --- !u!1 &239774731
 GameObject:
   m_ObjectHideFlags: 0
@@ -989,6 +989,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0422c7587068148ae953cc8e820bcddd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  flarePrefab: {fileID: 1963353505901024, guid: 747d66846d25440edb416de6e4d2a4b2,
+    type: 2}
   playerSpawnPOS: {fileID: 648223242}
   respawn: 1
 --- !u!82 &1623802889
@@ -1373,7 +1375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79225caa73edf45fea119cf7c620d114, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minsPS: 60
+  minsPS: 300
 --- !u!1 &2040987384
 GameObject:
   m_ObjectHideFlags: 0
