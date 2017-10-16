@@ -49,7 +49,7 @@ To be added.
 
 To be added.
 
-#### How To Play
+## How To Play
 
 To be added.
 
